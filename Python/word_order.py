@@ -12,8 +12,8 @@ n = int(input())
 
 list_of_words = OrderedDict()
 for _ in range(n):
-    word = ''.join(input().lstrip().rstrip().split(' '))
-    word = input()  # This will work as well
+    # word = ''.join(input().lstrip().rstrip().split(' '))  # This will work as well
+    word = input()  
     list_of_words[word] = list_of_words.get(word, 0) + 1
 print(len(list_of_words))
 for i in list_of_words.values():
