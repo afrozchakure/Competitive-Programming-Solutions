@@ -24,7 +24,7 @@ if __name__ == '__main__':
     s_set = sorted(s_set)  # To sort values in a set <-- Use this <------
     # print(s_set)
     s_list = [[x,s.count(x)] for x in s_set]
-    s_list.sort(key = takeSecond, reverse = True)
+    s_list.sort(key = takeSecond, reverse = True)  # It applies the takeSecond function to it to sort using the 2nd element in array
     
     for x, y in s_list[0:3]:
         print(x, y)
