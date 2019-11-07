@@ -33,6 +33,13 @@ if __name__ == '__main__':
 
     fptr.close()
 
+# Day Shared Liked Cumulative
+# 1      5     2       2
+# 2      6     3       5
+# 3      9     4       9
+# 4     12     6      15
+# 5     18     9      24
+
 # Output Format
 # Print the number of people who liked the advertisement during the first n days.
 
