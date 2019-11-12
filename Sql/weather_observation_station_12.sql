@@ -8,4 +8,4 @@ SELECT distinct(CITY) FROM STATION
 WHERE CITY RLIKE '^[^aeiouAEIOU].*[^AEIOUaeiou]$';  
 
 -- SELECT distinct(CITY) FROM STATION 
--- WHERE CITY REGEXP '^[^aeiouAEIOU].*[^AEIOUaeiou]$';  
+-- WHERE CITY REGEXP '^[^aeiouAEIOU].*[^AEIOUaeiou]$'  
