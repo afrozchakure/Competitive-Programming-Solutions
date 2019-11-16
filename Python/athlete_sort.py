@@ -5,7 +5,7 @@ import os
 import random
 import re
 import sys
-
+ 
 # M # No of attributes
 # K # Sort the data on Kth attribute
 
