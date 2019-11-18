@@ -10,6 +10,8 @@
 SELECT N, IF(P IS NULL, 'Root',IF((SELECT COUNT(*) FROM BST WHERE P = B.N) > 0, 
 'Inner', 'Leaf')) FROM BST as B ORDER BY N;
 
+-- Here, WHERE P=B.N uses a probable index.
+
 -- Sample Output
 
 -- 1 Leaf
