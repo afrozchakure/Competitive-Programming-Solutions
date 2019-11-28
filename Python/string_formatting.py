@@ -11,7 +11,7 @@
 
 def print_formatted(number):
     # your code goes here
-    w = len(str(bin(number)[2:]))
+    w = len(str(bin(number)[2:]))  # It must be formatted with binary value of n
     # print(w)
     for i in range(1, number+1):
         # print(i, end ='  ')
