@@ -1,6 +1,6 @@
 # Hackerrank-Problem-Solutions
 
-Find solutions to Hackerrank Problems >> C, C++, Python, Problem Solving, SQL, 30 Days of Code and much more.
+Find solutions to Hackerrank Problems --> C, C++, Python, Problem Solving, SQL, 30 Days of Code and much more.
 
 <b>Table of Contents :</b>
 <ol>
