@@ -138,3 +138,15 @@ carmack, john
 15,john,carmack,10
 
 */
+
+/*
+Note : 
+Because if we just returned something like :
+
+return age+","+first_name+","+last_name+","+standard;
+
+then the code wouldn't compile because age and standard are integers, 
+while first_name and last_name are strings and we can't just concenate strings with integers. 
+StringStream handels this for us and just automatically turns age and standard into part of the 
+string when they're apprehended to stringstream using the << operator.
+*/
