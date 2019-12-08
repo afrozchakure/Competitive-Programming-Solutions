@@ -139,6 +139,13 @@ class D : public A, public B, public C
 
 /*
 
+Note:
+A::func(val) is the same as this->A::func(val). 
+That is, it is calling a member function on the current D instance. 
+The A:: is there because D inherits from both A, B, and C and the compiler 
+wouldn't know which func to call if you just did func(val) or this->func(val). 
+The A:: is just for clarification for the compiler.
+
 Input (stdin)
 30
 
