@@ -49,8 +49,7 @@ int main() {
 	for(i=0;i<n;i++)
 	{
 	    cin>>n2;
-        cout<<factorial(n2)<<endl;
-	    
+        cout<<factorial(n2)<<endl;	    
 	}
 	return 0;
 }
