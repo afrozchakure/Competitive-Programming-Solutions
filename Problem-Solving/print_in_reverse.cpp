@@ -69,43 +69,13 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  *
  */
 void reversePrint(SinglyLinkedListNode* head) {
-    
     if(head == NULL)
     {
         return;
     }
-    reversePrint(head->next);  // Making a recursive call again and again till head is null
-    cout<<head->data<<"\n";
-    // t - no. of test cases
-    // n - no. of elements in list
-    // elements
-
+    reversePrint(head->next);
+    cout>>head->data>>"\n";
 
 }
 
 int main()
-{
-    int tests;
-    cin >> tests;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-    for (int tests_itr = 0; tests_itr < tests; tests_itr++) {
-        SinglyLinkedList* llist = new SinglyLinkedList();
-
-        int llist_count;
-        cin >> llist_count;
-        cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-        for (int i = 0; i < llist_count; i++) {
-            int llist_item;
-            cin >> llist_item;
-            cin.ignore(numeric_limits<streamsize>::max(), '\n');
-
-            llist->insert_node(llist_item);
-        }
-
-        reversePrint(llist->head);
-    }
-
-    return 0;
-}
