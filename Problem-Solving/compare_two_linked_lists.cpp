@@ -91,3 +91,48 @@ bool compare_lists(SinglyLinkedListNode* head1, SinglyLinkedListNode* head2) {
 }
 
 int main()
+{
+    ofstream fout(getenv("OUTPUT_PATH"));
+
+    int tests;
+    cin >> tests;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+    for (int tests_itr = 0; tests_itr < tests; tests_itr++) {
+        SinglyLinkedList* llist1 = new SinglyLinkedList();
+
+        int llist1_count;
+        cin >> llist1_count;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+        for (int i = 0; i < llist1_count; i++) {
+            int llist1_item;
+            cin >> llist1_item;
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+            llist1->insert_node(llist1_item);
+        }
+      
+      	SinglyLinkedList* llist2 = new SinglyLinkedList();
+
+        int llist2_count;
+        cin >> llist2_count;
+        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+        for (int i = 0; i < llist2_count; i++) {
+            int llist2_item;
+            cin >> llist2_item;
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+            llist2->insert_node(llist2_item);
+        }
+
+        bool result = compare_lists(llist1->head, llist2->head);
+
+        fout << result << "\n";
+    }
+
+    fout.close();
+
+    return 0;
+}
