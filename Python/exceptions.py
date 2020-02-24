@@ -52,7 +52,7 @@ n = int(input())
 for i in range(n):
     a, b = list(map(str, input().split()))
     try:
-        print(int(a)//int(b))
+        print(int(a)//int(b))  # Get the integer value (//)
     except ZeroDivisionError as e:
         print("Error Code:", e)
     except ValueError as e:
