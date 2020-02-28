@@ -2,16 +2,20 @@
 
 Find solutions to Hackerrank Problems --> C, C++, Python, Problem Solving, SQL, 30 Days of Code and much more.
 
-<b>Table of Contents :</b>
-<ol>
-  <li>Problem Solving</li>
-  <li>Python</li>
-  <li>C</li>
-  <li>SQL</li>
-  <li>30 Days of Code</li>
-  <li>Starred Problems 😀 (contains important problems)</li>
-</ol>
+**Table of Contents :**
 
-Please do star and fork this repo if you found this useful !!
+* Problem Solving
+* Python
+* C
+* C++
+* SQL
+* 30 Days of Code
+* CodeChef Solutions
+* CodeForces Solutions
+* Starred Problems 😀 (contains important problems)
+
+### Found it useful...then
+Please do **_star_** 🌟🌟🌟🌟🌟 and **_fork this repo_** 
+
 
 Link to my Hackerrank Profile : https://www.hackerrank.com/aaaanchakure?hr_r=1 
