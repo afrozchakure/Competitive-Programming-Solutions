@@ -2,7 +2,6 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-#include<algorithm>
 #define min(a, b) ((a) < (b) ? (a) : (b))
 
 int main() {
