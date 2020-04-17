@@ -29,13 +29,14 @@ function readLine() {
  * nums: An array of numbers.
  */
 function modifyArray(nums) {
-    for (let i = 0; i < nums.length; i++) {
-        if (nums[i] % 2 == 0)
-            nums[i] = nums[i] * 2;
+    const modify = function(n) {
+        if (n % 2 == 0)
+            return n * 2;
         else
-            nums[i] = nums[i] * 3
+            return n * 3;
     }
-    return nums;
+    let arr = nums.map(modify);
+    return arr;
 }
 
 
