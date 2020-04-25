@@ -12,7 +12,7 @@ Your one-stop repository for all solutions from major competitive programming si
 * And much more (__All in a single repository__)
 
 ### Wanna Contribute.....
-1. Do **_star_** 🌟 and **_fork this repo_** 
+1. **Star** 🌟 and **Fork this repo** 
 2. Clone this repository onto your local system.  
 `` git clone https://github.com/afrozchakure/Competitive-Programming-Solutions.git ``
 
