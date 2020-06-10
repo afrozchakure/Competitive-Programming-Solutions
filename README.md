@@ -1,21 +1,23 @@
-# Hackerrank-Problem-Solutions
+## Competitive Programming Solutions
 
-Find solutions to Hackerrank Problems --> C, C++, Python, Problem Solving, SQL, 30 Days of Code and much more.
+Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:.
 
-**Table of Contents :**
+### **Table of Contents :**
 
-* Problem Solving
-* Python
-* C
-* C++
-* SQL
-* 30 Days of Code
+* Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript.
 * CodeChef Solutions
 * CodeForces Solutions
+* GeeksforGeeks
 * Starred Problems 😀 (contains important problems)
+* And much more (__All in a single repository__)
 
-### Found it useful...then
-Please do **_star_** 🌟🌟🌟🌟🌟 and **_fork this repo_** 
+### Wanna Contribute.....
+1. **Star** 🌟 and **Fork this repo** 
+2. Clone this repository onto your local system.  
+`` git clone https://github.com/afrozchakure/Competitive-Programming-Solutions.git ``
+
+#### I am trying to improve this repository. Feel free to raise issues and contribute :smile:.
 
 
-Link to my Hackerrank Profile : https://www.hackerrank.com/aaaanchakure?hr_r=1 
+
+#### **Link to my Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
