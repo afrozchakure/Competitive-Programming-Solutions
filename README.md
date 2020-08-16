@@ -4,7 +4,7 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ### **Table of Contents :**
 
-* Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript.
+* Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript. (100+ problems)
 * CodeChef Solutions
 * CodeForces Solutions
 * GeeksforGeeks
