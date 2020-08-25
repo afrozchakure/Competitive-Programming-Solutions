@@ -2,6 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
 [![GitHub license](https://img.shields.io/github/license/afrozchakure/Competitive-Programming-Solutions?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Competitive-Programming-Solutions?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/network)
+[![Visits Badge](https://badges.pufler.dev/visitors/afrozchakure/Competitive-Programming-Solutions?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
 
 Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:.
 
@@ -19,8 +21,8 @@ Your one-stop repository for all solutions from major competitive programming si
 2. Clone this repository onto your local system.  
 `` git clone https://github.com/afrozchakure/Competitive-Programming-Solutions.git ``
 
-#### I am trying to improve this repository. Feel free to raise issues and contribute :smile:.
+#### I am trying to improve this repository. Feel free to raise issues and contribute :smile:
 
 
 
-#### **Link to my Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+#### **My Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
