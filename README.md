@@ -9,10 +9,11 @@ Your one-stop repository for all solutions from major competitive programming si
 
 ### **Table of Contents :**
 
-* Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript. (100+ problems)
+* Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript. (150+ problems)
 * CodeChef Solutions
 * CodeForces Solutions
 * GeeksforGeeks
+* LeetCode
 * Starred Problems 😀 (contains important problems)
 * And much more (__All in a single repository__)
 
