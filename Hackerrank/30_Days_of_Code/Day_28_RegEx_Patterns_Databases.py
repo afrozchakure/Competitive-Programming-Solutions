@@ -16,6 +16,11 @@ for name in sorted(gmail_names):
     print(name)
 
 
+# Input Format
+# The first line contains an integer, N, total number of rows in the table.
+# Each of the N subsequent lines contains 2 space-separated strings
+# denoting a person's first name and email ID, respectively.
+
 # Output Format
 # Print an alphabetically-ordered list of first names for every user with a gmail account.
 # Each name must be printed on a new line
