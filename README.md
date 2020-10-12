@@ -1,6 +1,6 @@
 ## Competitive Programming Solutions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
@@ -51,6 +51,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/afrinc"><img src="https://avatars2.githubusercontent.com/u/11709991?v=4" width="100px;" alt=""/><br /><sub><b>Afrin Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrinc" title="Tests">⚠️</a></td>
+    <td align="center"><a href="https://snehajgecport.000webhostapp.com/"><img src="https://avatars2.githubusercontent.com/u/69042882?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Kumari</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=Snehakri022" title="Code">💻</a></td>
   </tr>
 </table>
 
