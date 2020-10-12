@@ -1,6 +1,6 @@
 ## Competitive Programming Solutions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://snehajgecport.000webhostapp.com/"><img src="https://avatars2.githubusercontent.com/u/69042882?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Kumari</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=Snehakri022" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/IharSha"><img src="https://avatars2.githubusercontent.com/u/12090123?v=4" width="100px;" alt=""/><br /><sub><b>IharSha</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=IharSha" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ishabes"><img src="https://avatars1.githubusercontent.com/u/59055661?v=4" width="100px;" alt=""/><br /><sub><b>Shabes</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=ishabes" title="Code">💻</a></td>
+    <td align="center"><a href="http://linkedin.com/in/afrozchakure"><img src="https://avatars3.githubusercontent.com/u/40469121?v=4" width="100px;" alt=""/><br /><sub><b>Afroz Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrozchakure" title="Code">💻</a> <a href="#projectManagement-afrozchakure" title="Project Management">📆</a> <a href="#question-afrozchakure" title="Answering Questions">💬</a> <a href="#ideas-afrozchakure" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls?q=is%3Apr+reviewed-by%3Aafrozchakure" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 

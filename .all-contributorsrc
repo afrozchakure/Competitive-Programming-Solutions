@@ -40,6 +40,19 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "afrozchakure",
+      "name": "Afroz Chakure",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40469121?v=4",
+      "profile": "http://linkedin.com/in/afrozchakure",
+      "contributions": [
+        "code",
+        "projectManagement",
+        "question",
+        "ideas",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
