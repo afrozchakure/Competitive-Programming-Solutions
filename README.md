@@ -1,4 +1,7 @@
 ## Competitive Programming Solutions
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
 [![GitHub license](https://img.shields.io/github/license/afrozchakure/Competitive-Programming-Solutions?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE)
@@ -37,3 +40,22 @@ Your one-stop repository for all solutions from major competitive programming si
 
 
 #### **My Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/afrinc"><img src="https://avatars2.githubusercontent.com/u/11709991?v=4" width="100px;" alt=""/><br /><sub><b>Afrin Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrinc" title="Tests">⚠️</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

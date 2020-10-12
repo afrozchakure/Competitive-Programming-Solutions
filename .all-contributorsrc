@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "afrinc",
+      "name": "Afrin Chakure",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/11709991?v=4",
+      "profile": "https://github.com/afrinc",
+      "contributions": [
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Competitive-Programming-Solutions",
+  "projectOwner": "afrozchakure",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
