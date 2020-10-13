@@ -53,6 +53,16 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "anilkaundal",
+      "name": "Anil Kaundal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60393858?v=4",
+      "profile": "http://anilkaundal.github.io/portfolio/?",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
