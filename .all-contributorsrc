@@ -6,6 +6,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "afrozchakure",
+      "name": "Afroz Chakure",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/40469121?v=4",
+      "profile": "http://linkedin.com/in/afrozchakure",
+      "contributions": [
+        "code",
+        "projectManagement",
+        "question",
+        "ideas",
+        "review"
+      ]
+    },
+    {
       "login": "afrinc",
       "name": "Afrin Chakure",
       "avatar_url": "https://avatars2.githubusercontent.com/u/11709991?v=4",
@@ -40,19 +53,6 @@
       "profile": "https://github.com/ishabes",
       "contributions": [
         "code"
-      ]
-    },
-    {
-      "login": "afrozchakure",
-      "name": "Afroz Chakure",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/40469121?v=4",
-      "profile": "http://linkedin.com/in/afrozchakure",
-      "contributions": [
-        "code",
-        "projectManagement",
-        "question",
-        "ideas",
-        "review"
       ]
     },
     {
