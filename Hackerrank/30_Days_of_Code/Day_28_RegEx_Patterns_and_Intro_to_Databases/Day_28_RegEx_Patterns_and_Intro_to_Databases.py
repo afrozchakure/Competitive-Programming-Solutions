@@ -5,15 +5,34 @@
 # Given N rows of data simulating the Emails table,
 # print an alphabetically-ordered list of people whose email address ends in @gmail.com.
 
-gmail_names = []
-N = int(input().strip())
-for a0 in range(N):
-    firstName, emailID = input().strip().split(' ')
-    firstName, emailID = [str(firstName), str(emailID)]
-    if "@gmail.com" in emailID:
-        gmail_names.append(firstName)
-for name in sorted(gmail_names):
-    print(name)
+import math
+import os
+import random
+import re
+import sys
+
+
+def compute(firstName, emailID, result):
+    # restricted to lowercase letters and first name limit is 20 characters and whole email id limit is 50 characters
+    match = re.search(r'[a-z]{,20}@gmail.com{,50}', emailID)
+    if match:
+        result.append(firstName)
+
+if __name__ == '__main__':
+    N = int(input())
+
+    result = []
+    for N_itr in range(N):
+        firstNameEmailID = input().split()
+
+        firstName = firstNameEmailID[0]
+
+        emailID = firstNameEmailID[1]
+
+        compute(firstName, emailID, result)
+    result = sorted(result);
+    for i in result:
+        print(i)
 
 
 # Input Format

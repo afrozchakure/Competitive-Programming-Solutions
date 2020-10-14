@@ -13,9 +13,9 @@ def max_bit(num, limit):
         for i in range(1, num):
             for j in range(i + 1, num + 1):
                 diff_bit = i & j
-                if diff_bit >= limit:
+                if diff_bit >= limit:  # If the add operation gives diff_bit greater than k
                     return maximum_bit
-                if diff_bit > maximum_bit:
+                if diff_bit > maximum_bit:  # When diff_bit is greater than maxBit
                     maximum_bit = diff_bit
     return maximum_bit
 
