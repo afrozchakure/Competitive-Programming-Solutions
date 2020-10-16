@@ -28,7 +28,12 @@ function regexVar() {
      * It must match a string that starts with 'Mr.', 'Mrs.', 'Ms.', 'Dr.', or 'Er.', 
      * followed by one or more letters.
      */
+    let re = /^(Mr|Mrs|Ms|Dr|Er)[\\.][a-zA-Z]+$/;   // \\. means consider the char as dot(.) not any character
+  
+    /* Method 2
     var re = (/^(Mr\.|Dr\.|Er\.|Ms\.|Mrs\.)\s?[a-z|A-Z]+$/);
+    */
+    
     /*
      * Do not remove the return statement
      */

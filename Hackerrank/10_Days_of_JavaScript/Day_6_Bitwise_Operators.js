@@ -36,7 +36,39 @@ function getMaxLessThanK(n, k) {
     return max;
 }
 
+/*
+Method - 2
 
+function getMaxLessThanK( n,  k)
+{
+    let result = 0;
+    let k_String = k.toString(2); // converting number to binary
+    k_String = k_String.charAt(k_String.length - 1);  // To get the rightmost element
+    if(k_String == '1')
+    {
+        k = k - 1;
+        return k;
+    }
+    else{
+        for(let i=1; i<n; i++)
+        {
+            for(let j=i+1; j<n+1; j++)
+            {
+                let diff = i&j;
+                if(diff >= k) 
+                {
+                    return result;
+                }
+                if(diff > result)
+                {
+                    result = diff;
+                }
+            }
+        }
+    }
+    return result;
+}
+*/
 function main() {
     const q = +(readLine());
     
