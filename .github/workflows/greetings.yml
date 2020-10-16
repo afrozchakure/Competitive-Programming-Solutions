@@ -1,6 +1,17 @@
 name: Greetings
 
-on: [issues]
+on: 
+    fork: 
+    push: 
+        branches: [master]
+    issues: 
+        types: [opened]
+    issue_comment: 
+        types: [created]
+    pull_request_target:
+        types: [opened]
+    pull_request_review_comment:
+        types: [created]
 
 jobs:
   greeting:
@@ -11,8 +22,7 @@ jobs:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message: >
           Hi there! 👋🏼
-          As you're new to this repo, we'd like to suggest that you read our code of conduct
-          as well as our contribution guidelines.
-          Thanks a bunch for opening your first issue! 🙏
+          As you're new to this repo, we'd like to suggest that you read our code of conduct as well as our contribution guidelines.
+          Thanks a bunch for opening your first issue! :smile: :tada:
         pr-message: >
-          Congratulations on opening your first pull request! We'll get back to you as soon as possible. In the meantime, please make sure you've updated the documentation to reflect your changes and have added test automation as needed. Thanks! 🙏🏼
+          Congratulations on opening your first pull request! The code maintainer will get back to you as soon as possible. In the meantime, please make sure you've updated the documentation to reflect your changes and have added test automation as needed. Thanks! :smile: :tada:
