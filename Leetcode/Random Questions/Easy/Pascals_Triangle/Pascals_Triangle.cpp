@@ -9,6 +9,7 @@ public:
             res[i][0] = res[i][i] = 1;
             for(int j=1; j < i; j++)
             {
+            // Addition of up (i-1)(j) and corner (i-1)(j-1)
                 res[i][j] = res[i-1][j-1] + res[i-1][j];
             }
         }
@@ -18,3 +19,10 @@ public:
 
 // Time Complexity - O(n**2)
 // Space Complexity - O(n)
+
+
+// [1]
+// [1,1]
+// [1,2,1]
+// [1,3,3,1]
+// [1,4,6,4,1]
