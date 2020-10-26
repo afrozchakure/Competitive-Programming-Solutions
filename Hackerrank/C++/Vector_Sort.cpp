@@ -42,8 +42,8 @@ Sample Output
 using namespace std;
 
 int main() {
-    vector <int> v;  // Declaration of a vector
-    int size, i, j, ele = 0;
+    vector<int> v;  // Declaration of a vector
+    int size, i, ele = 0;
     cin>>size;
     for(i = 0; i<size; i++)
     {
@@ -51,7 +51,7 @@ int main() {
         v.push_back(ele);
     }
     sort(v.begin(), v.end());  // Sorting a vector
-    for(i=0; i<v.size(); i++)
+    for(i=0; i<size; i++)
     {
         cout<<v[i]<<" ";
     }
