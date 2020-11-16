@@ -12,7 +12,7 @@
 
 Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:
 
-### **Table of Contents :**
+### **About this repository :**
 
 * Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript. (150+ problems)
 * CodeChef Solutions
@@ -22,14 +22,20 @@ Your one-stop repository for all solutions from major competitive programming si
 * Starred Problems 😀 (contains important problems)
 * And much more (__All in a single repository__)
 
-### Wanna Contribute.....
-1. **Star** 🌟 and **Fork this repo** 
-2. Clone this repository onto your local system.  
-`` git clone https://github.com/afrozchakure/Competitive-Programming-Solutions.git ``
+## How to Contribute?
+1. Star this repository. 🌟
+2. Take a look at the Existing Issues or create your own Issues!
+3. Wait for the Issue to be assigned to you after which you can start working on it.
+4. Fork the Repo and create a Branch for any Issue that you are working upon.
+5. Read the ![Code of Conduct](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) before contributing to this repository. 
+6. Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+7. Add Screenshots whereever necessary. (Optional)
+8. Having difficulty in contributing? Read the ![Contribution Guide](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) for a detailed explanation.
 
-#### I am trying to improve this repository. Feel free to raise issues and contribute :smile:
+## License 
+This repository follows ![MIT License](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE).
 
-## Contributors ✨
+## Our Contributors Wall of Fame✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -66,3 +72,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 
 #### **My Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions.svg)](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions)
+
