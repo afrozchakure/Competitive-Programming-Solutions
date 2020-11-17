@@ -22,6 +22,7 @@ Your one-stop repository for all solutions from major competitive programming si
 - CodeForces Solutions
 - GeeksforGeeks
 - LeetCode
+- Codewars
 - Starred Problems 😀 (contains important problems)
 - And much more (**All in a single repository**)
 
