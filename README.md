@@ -2,7 +2,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -15,7 +15,7 @@
 
 Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:
 
-### **Table of Contents :**
+### **About this repository :**
 
 - Hackerrank : Problem Solving, Python, C, C++, SQL, 30 Days of Code, Java, JavaScript. (150+ problems)
 - CodeChef Solutions
@@ -23,18 +23,24 @@ Your one-stop repository for all solutions from major competitive programming si
 - GeeksforGeeks
 - LeetCode
 - Starred Problems 😀 (contains important problems)
-- Codewars
 - And much more (**All in a single repository**)
 
-### Wanna Contribute.....
+## How to Contribute?
 
-1. **Star** 🌟 and **Fork this repo**
-2. Clone this repository onto your local system.  
-   `git clone https://github.com/afrozchakure/Competitive-Programming-Solutions.git`
+1. Star this repository. 🌟
+2. Take a look at the Existing Issues or create your own Issues!
+3. Wait for the Issue to be assigned to you after which you can start working on it.
+4. Fork the Repo and create a Branch for any Issue that you are working upon.
+5. Read the ![Code of Conduct](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) before contributing to this repository.
+6. Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
+7. Add Screenshots whereever necessary. (Optional)
+8. Having difficulty in contributing? Read the ![Contribution Guide](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) for a detailed explanation.
 
-#### I am trying to improve this repository. Feel free to raise issues and contribute :smile:
+## License
 
-## Contributors ✨
+This repository follows ![MIT License](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE).
+
+## Our Contributors Wall of Fame✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -43,12 +49,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-  <td align="center"><a href="http://linkedin.com/in/afrozchakure"><img src="https://avatars3.githubusercontent.com/u/40469121?v=4" width="100px;" alt=""/><br /><sub><b>Afroz Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrozchakure" title="Code">💻</a> <a href="#projectManagement-afrozchakure" title="Project Management">📆</a> <a href="#question-afrozchakure" title="Answering Questions">💬</a> <a href="#ideas-afrozchakure" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls?q=is%3Apr+reviewed-by%3Aafrozchakure" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://linkedin.com/in/afrozchakure"><img src="https://avatars3.githubusercontent.com/u/40469121?v=4" width="100px;" alt=""/><br /><sub><b>Afroz Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrozchakure" title="Code">💻</a> <a href="#projectManagement-afrozchakure" title="Project Management">📆</a> <a href="#question-afrozchakure" title="Answering Questions">💬</a> <a href="#ideas-afrozchakure" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls?q=is%3Apr+reviewed-by%3Aafrozchakure" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/afrinc"><img src="https://avatars2.githubusercontent.com/u/11709991?v=4" width="100px;" alt=""/><br /><sub><b>Afrin Chakure</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrinc" title="Tests">⚠️</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=afrinc" title="Code">💻</a></td>
     <td align="center"><a href="https://snehajgecport.000webhostapp.com/"><img src="https://avatars2.githubusercontent.com/u/69042882?v=4" width="100px;" alt=""/><br /><sub><b>Sneha Kumari</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=Snehakri022" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/IharSha"><img src="https://avatars2.githubusercontent.com/u/12090123?v=4" width="100px;" alt=""/><br /><sub><b>IharSha</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=IharSha" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ishabes"><img src="https://avatars1.githubusercontent.com/u/59055661?v=4" width="100px;" alt=""/><br /><sub><b>Shabes</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=ishabes" title="Code">💻</a></td>
     <td align="center"><a href="http://anilkaundal.github.io/portfolio/?"><img src="https://avatars2.githubusercontent.com/u/60393858?v=4" width="100px;" alt=""/><br /><sub><b>Anil Kaundal</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=anilkaundal" title="Code">💻</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=anilkaundal" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/soham4abc"><img src="https://avatars3.githubusercontent.com/u/63705023?v=4" width="100px;" alt=""/><br /><sub><b>Soham Banerjee</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=soham4abc" title="Code">💻</a></td>
   </tr>
 </table>
 
@@ -69,3 +76,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 > **_Need help? Feel free to contact me @ [afrozchakure@gmail.com](mailto:afrozchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
 
 #### **My Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions.svg)](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions)
