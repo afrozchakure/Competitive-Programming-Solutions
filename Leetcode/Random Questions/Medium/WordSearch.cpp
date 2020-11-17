@@ -21,6 +21,8 @@ public:
 
     bool searchWord(int i, int j, int index, vector<vector<char>> &board, string word)
     {
+        // when the index reaches the word size, it means
+        // all elements before it, it found a match, hence return true
         if (index == word.size())
             return true;
 
