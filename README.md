@@ -1,14 +1,16 @@
 ## Competitive Programming Solutions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+[![Issues](https://img.shields.io/github/issues/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr-raw/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls)
+[![Last commit](https://badges.pufler.dev/updated/afrozchakure/Competitive-Programming-Solutions?color=red)](https://badges.pufler.dev)
+[![Stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
+[![Forks](https://img.shields.io/github/forks/afrozchakure/Competitive-Programming-Solutions?color=orange)](https://github.com/afrozchakure/Competitive-Programming-Solutions/network/members)
+[![Visits](https://badges.pufler.dev/visits/afrozchakure/Competitive-Programming-Solutions?color=blueviolet)](https://badges.pufler.dev)
+[![Created](https://badges.pufler.dev/created/afrozchakure/Competitive-Programming-Solutions?color=yellowgreen)](https://badges.pufler.dev)
+[![License](https://img.shields.io/github/license/afrozchakure/Competitive-Programming-Solutions?color=blue)](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
-[![GitHub license](https://img.shields.io/github/license/afrozchakure/Competitive-Programming-Solutions?color=blue&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Competitive-Programming-Solutions?color=orange&style=for-the-badge)](https://github.com/afrozchakure/Competitive-Programming-Solutions/network)
-[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Competitive-Programming-Solutions?color=blueviolet&style=for-the-badge)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/afrozchakure/Competitive-Programming-Solutions?color=yellowgreen&style=for-the-badge)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/afrozchakure/Competitive-Programming-Solutions?color=red&style=for-the-badge)](https://badges.pufler.dev)
 
 Your one-stop repository for all solutions from major competitive programming sites. Check it out :point_down:
 
@@ -24,8 +26,8 @@ Your one-stop repository for all solutions from major competitive programming si
 * And much more (__All in a single repository__)
 
 ## How to Contribute?
-1. Star this repository. 🌟
-2. Take a look at the Existing Issues or create your own Issues!
+1. Star 🌟 this repository. 
+2. Take a look at the Existing Issues or create your own Issues.
 3. Wait for the Issue to be assigned to you after which you can start working on it.
 4. Fork the Repo and create a Branch for any Issue that you are working upon.
 5. Read the ![Code of Conduct](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) before contributing to this repository. 
