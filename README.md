@@ -1,6 +1,6 @@
 ## Competitive Programming Solutions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Issues](https://img.shields.io/github/issues/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr-raw/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls)
@@ -54,6 +54,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ishabes"><img src="https://avatars1.githubusercontent.com/u/59055661?v=4" width="100px;" alt=""/><br /><sub><b>Shabes</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=ishabes" title="Code">💻</a></td>
     <td align="center"><a href="http://anilkaundal.github.io/portfolio/?"><img src="https://avatars2.githubusercontent.com/u/60393858?v=4" width="100px;" alt=""/><br /><sub><b>Anil Kaundal</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=anilkaundal" title="Code">💻</a> <a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=anilkaundal" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/soham4abc"><img src="https://avatars3.githubusercontent.com/u/63705023?v=4" width="100px;" alt=""/><br /><sub><b>Soham Banerjee</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=soham4abc" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Rupali409"><img src="https://avatars3.githubusercontent.com/u/54534133?v=4" width="100px;" alt=""/><br /><sub><b>Rupali409</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=Rupali409" title="Code">💻</a></td>
   </tr>
 </table>
 
