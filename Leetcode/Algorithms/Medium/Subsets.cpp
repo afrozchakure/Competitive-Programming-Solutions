@@ -29,3 +29,7 @@ public:
         }
     }
 };
+
+// Time Complexity - O(2*n), since we are making the decision whether
+// to take the element or not take the element
+// Space Complexity - O(n), since we are adding element to stack each time
