@@ -4,6 +4,8 @@ class Solution
 public:
     int romanToInt(string s)
     {
+        // Pay attention because unordered_map doesn't have ":",
+        // between key and value pairs
         unordered_map<char, int> symbols = {
             {'I', 1},
             {'V', 5},
@@ -17,6 +19,9 @@ public:
 
         for (int i = s.size() - 2; i >= 0; i--)
         {
+            // This step is important
+            // remember we are comparing the values of characters from the
+            // symbols map, not the actual values of those characters
             if (symbols[s[i]] < symbols[s[i + 1]])
                 sum -= symbols[s[i]];
             else
