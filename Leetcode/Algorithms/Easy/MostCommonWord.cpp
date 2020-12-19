@@ -22,7 +22,19 @@ public:
         }
         for (string &element : para)
         {
-            element.lower()
+            map[element] += 1;
         }
+
+        int max_count = 0;
+        string map_element = "";
+        for (string &element : para)
+        {
+            if (max_count < map[element])
+            {
+                max_count = map[element];
+                map_element = element;
+            }
+        }
+        return map_element;
     }
 };
