@@ -78,7 +78,8 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 > **_Need help? Feel free to contact me @ [afrozchakure@gmail.com](mailto:afrozchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
 
 
-#### **My Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+#### **Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+#### **LeetCode Profile** : https://leetcode.com/afrozchakure/
 
 ## Stargazers over time
 
