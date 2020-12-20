@@ -1,6 +1,6 @@
 ## Competitive Programming Solutions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Issues](https://img.shields.io/github/issues/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr-raw/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls)
@@ -58,6 +58,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Rupali409"><img src="https://avatars3.githubusercontent.com/u/54534133?v=4" width="100px;" alt=""/><br /><sub><b>Rupali409</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=Rupali409" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/awarrupa8"><img src="https://avatars2.githubusercontent.com/u/48853554?v=4" width="100px;" alt=""/><br /><sub><b>Awar Rupa</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=awarrupa8" title="Code">💻</a></td>
+    <td align="center"><a href="https://diligentcoder.herokuapp.com/#"><img src="https://avatars2.githubusercontent.com/u/64896383?v=4" width="100px;" alt=""/><br /><sub><b>Siddharth.S.Chandran</b></sub></a><br /><a href="https://github.com/afrozchakure/Competitive-Programming-Solutions/commits?author=DiligentCoder-20022001" title="Code">💻</a></td>
   </tr>
 </table>
 
