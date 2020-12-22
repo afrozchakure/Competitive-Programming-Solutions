@@ -28,10 +28,7 @@ struct Node
 
 /* Function to mergesort the linked list
    It should return head of the modified list  */
-//OM GAN GANAPATHAYE NAMO NAMAH
-//JAI SHRI RAM 
-//JAI BAJRANGBALI
-//AMME NARAYANA, DEVI NARAYANA, LAKSHMI NARAYANA, BHADRE NARAYANA
+
 Node *sortedMerge(Node *a, Node *b)
 {
     if(a == NULL)
