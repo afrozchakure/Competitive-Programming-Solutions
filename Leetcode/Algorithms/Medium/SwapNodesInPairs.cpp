@@ -27,6 +27,7 @@ public:
 
             first->next = second->next;
             second->next = first;
+            
             current->next = second;
             current = current->next->next;
         }
