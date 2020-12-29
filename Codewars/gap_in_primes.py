@@ -15,9 +15,6 @@ def gap(g, m, n):
         return [start, end]
     return None
 
-
-
-
 def is_prime(n):
   if n <= 0 or n == 1:
     return False
