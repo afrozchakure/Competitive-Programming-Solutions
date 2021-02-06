@@ -49,9 +49,10 @@ public:
 
         for (auto i : map)
         {
+            // First check the count of previous element to i, if it exists
             if (map.count(i.first - 1) > 0)
             {
-                result = max(result, i.second + map.count(i.first - 1));
+                result = max(result, i.second + map[i.first - 1]);
             }
         }
         return result;
