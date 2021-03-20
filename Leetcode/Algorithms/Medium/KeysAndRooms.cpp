@@ -12,6 +12,7 @@ public:
     {
         int n = rooms.size();
         vector<bool> result(n, 0);
+        // remember to initialize the values
         result[0] = 1;
         stack<int> s;
         s.push(0);
@@ -51,6 +52,7 @@ public:
     bool canVisitAllRooms(vector<vector<int>> &rooms)
     {
         stack<int> dfs;
+        // remember to initialize the values
         unordered_set<int> seen = {0};
 
         dfs.push(0);
