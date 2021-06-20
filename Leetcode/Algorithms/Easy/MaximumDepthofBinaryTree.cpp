@@ -1,3 +1,4 @@
+// Using the bottom-up approach, where the value from the leaf node is incremented till the root node 
 class Solution
 {
 public:
@@ -19,4 +20,4 @@ public:
 }
 
 // Time Complexity - O(n) - n is the number of nodes in the binary tree
-// Space Complexity - O(1) - Since only recursive function call stack is used
+// Space Complexity - O(n) - Since only recursive function call stack is used, n refers to the maximum number of recursive calls we can make (in case of a skew binary tree)
