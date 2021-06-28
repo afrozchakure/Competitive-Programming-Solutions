@@ -9,6 +9,8 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+ 
+// DFS (with stack)
 class Solution
 {
 public:
@@ -29,6 +31,7 @@ public:
             int current_sum = sum_stack.top();
             sum_stack.pop();
 
+            // Means that we have reached the leaf nodes and the current_sum = 0
             if (current_node->left == NULL && current_node->right == NULL && current_sum == 0)
                 return true;
 
@@ -46,3 +49,6 @@ public:
         return false;
     }
 };
+
+// Time Complexity - O(N)
+// Space Complexity - O(N), since we're using a stack to store current values
