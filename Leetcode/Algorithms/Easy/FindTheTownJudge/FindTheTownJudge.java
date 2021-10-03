@@ -16,4 +16,8 @@ public class FindTheTownJudge {
             return -1;
         }
 }
-
+/*
+ * Complexity
+ * Space: O(N) 
+ * Time: O(N)
+ * */
