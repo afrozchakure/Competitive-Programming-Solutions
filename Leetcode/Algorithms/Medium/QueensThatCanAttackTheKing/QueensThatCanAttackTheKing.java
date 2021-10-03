@@ -33,4 +33,13 @@ public class QueensThatAttackTheKing {
             return result;
 	}
  }
+/*
+Complexity
 
+Time O(1), Space O(1)
+as the size of chessboard is limited.
+
+For the chessboard of N * N
+Time O(queens + 8N)
+Space O(queens)
+*/
