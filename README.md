@@ -25,6 +25,16 @@ Your one-stop repository for all solutions from major competitive programming si
 * Starred Problems 😀 (contains important problems)
 * And much more (__All in a single repository__)
 
+
+## ❤️ Coding Profiles
+
+> **_Need help or want to hire me? Feel free to contact me @ [aaaanchakure@gmail.com](mailto:aaaanchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
+
+
+#### **Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
+#### **LeetCode Profile** : https://leetcode.com/afrozchakure/
+
+
 ## How to Contribute?
 1. Star 🌟 this repository. 
 2. Take a look at the Existing Issues or create your own Issues.
@@ -35,17 +45,6 @@ Your one-stop repository for all solutions from major competitive programming si
 7. Add Screenshots whereever necessary. (Optional)
 8. Having difficulty in contributing? Read the ![Contribution Guide](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/CONTRIBUTING.md) for a detailed explanation.
 
+
 ## License 
 This repository follows ![MIT License](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE).
-
-## ❤️ Coding Profiles
-
-> **_Need help or want to hire me? Feel free to contact me @ [aaaanchakure@gmail.com](mailto:aaaanchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
-
-
-#### **Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
-#### **LeetCode Profile** : https://leetcode.com/afrozchakure/
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions.svg)](https://starchart.cc/afrozchakure/Competitive-Programming-Solutions)
