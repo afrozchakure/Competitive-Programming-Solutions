@@ -38,14 +38,9 @@ Your one-stop repository for all solutions from major competitive programming si
 ## License 
 This repository follows ![MIT License](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE).
 
-## ❤️ Project Admin
+## ❤️ Coding Profiles
 
-|                                     <a href="https://github.com/afrozchakure"><img src="https://avatars3.githubusercontent.com/u/40469121?s=400&u=2a837a16e7ab8df7d52bfc6af47bd55becfad6bc&v=4" width=150px height=150px /></a>                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                      **[Afroz Chakure](https://www.linkedin.com/in/afrozchakure)**                                                                                       |
-| <a href="https://www.linkedin.com/in/afrozchakure/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-> **_Need help? Feel free to contact me @ [afrozchakure@gmail.com](mailto:afrozchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
+> **_Need help or want to hire me? Feel free to contact me @ [aaaanchakure@gmail.com](mailto:aaaanchakure@gmail.com?Subject=Competitive-Programming-Solutions-Repo)_**
 
 
 #### **Hackerrank Profile** : https://www.hackerrank.com/aaaanchakure 
