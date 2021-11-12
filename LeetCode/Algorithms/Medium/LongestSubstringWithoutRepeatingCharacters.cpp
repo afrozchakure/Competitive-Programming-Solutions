@@ -1,3 +1,30 @@
+// Method - 1 
+class Solution {
+public:
+    int lengthOfLongestSubstring(string s) {
+        int n = s.size(); 
+        
+        int max_length = 0;
+        int l = 0; 
+        
+        unordered_set<int> mySet; 
+        for(int r=0; r<n; r++)
+        {
+            while(mySet.find(s[r]) != mySet.end())
+            {
+                mySet.erase(s[l]); 
+                l++;
+            }
+            max_length = max(max_length, r - l + 1); 
+            mySet.insert(s[r]); 
+        }
+        return max_length;
+    }
+};
+// Time Complexity - O(N), It will iterate N times to get the result
+// Space Complexity - O(N), since we're using an unordered_set
+
+// Method - 2
 #include <algorithm>
 #include <map>
 class Solution
