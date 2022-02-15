@@ -6,6 +6,7 @@ public:
         int rows = matrix.size(), cols = matrix[0].size();
         int col0 = 1;
 
+        // Checking the first row 
         for (int i = 0; i < rows; i++)
         {
             if (matrix[i][0] == 0)
