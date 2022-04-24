@@ -4,32 +4,31 @@ using namespace std;
 
 int main() 
 {
-    unsigned long long n, k; 
+    long long n, k; 
     cin>>n>> k;
-    vector<int> input(n+1, 0); 
-    int j=0;
-    for(int i=1; i<=n;i+=2)
-    {
-        input[j++] = i;
-        // cout<<i<<" ";
-    }
-    for(int i=2; i<=n; i+=2)
-    {
-        input[j++] = i;
-        // cout<<i<<" "; 
-    }
-    cout<<input[k-1];
+    
+    long long odd = (n+1) / 2, even = n / 2; 
 
-
+    if(k <= odd)
+    {
+        cout<< k*2 - 1;
+    }
+    else 
+    {
+        cout<< (k - odd) * 2; 
+    }
     return 0; 
 }
 
-if(k <= (n+1) /2)  // 
-{
-    cout<< k * 2 - 1
-}
-else 
-{
-    cout<< 
-}
-1 3 5 7 2 4 
+
+// n is even  - 3
+// 1 2 3 4 5 6 7 8 9 10 
+
+// 1 3 5 7 9 10 8 6 4 2 
+
+// n is odd 
+// 1 2 3 4 5 6 7 
+
+// 1 3 5 7 6 4 2 
+
+// if n is odd  (5 + 1) / 2  
