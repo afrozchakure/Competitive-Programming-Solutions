@@ -1,3 +1,4 @@
+// Refer @hiepit's solution in discuss tab
 class UndergroundSystem {
 public:
     unordered_map<int, pair<string, int>> checkInMap;  // contain the id, stationName and time;   // {stationName, t}
