@@ -24,8 +24,8 @@ public:
     }
 };
 
-// Time Complexity - O(N) 
-// Space Complexity - O(1)
+// Time Complexity - O(1) 
+// Space Complexity - O(N), since we're using hashmap
 
 // Use two maps, one for keeping track of id, first stations and startTime and 
 // the other for keeping track of path, totalTime and count 
