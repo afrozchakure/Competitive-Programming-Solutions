@@ -1,0 +1,75 @@
+// Refer Algorithms made Easy solution for the problem 
+
+Trie - A trie or prefix tree is a tree data structure used to efficiently store and retrieve keys in a dataset of strings. 
+
+public Trie[] t --> length 26 
+
+List<Integer> index 
+
+
+EndOfWord -> 
+
+// ["WordsFilter", "f"]
+// [[["apple"], ["applet"], ["ape"], ["a", "e"]]] 
+
+Indexes starting with a -> Index is assigned to each level of dictionary telling which indexes at the level form prefix of the words list. 
+
+// Reversing Strings 
+-> [["	elppa"], ["telppa"], ["epa"]]
+
+Find the indexes of String that ends with "e"
+
+Indexes starting with "a": [0, 1, 2]
+Indexes ending with "e": [0, 2] 
+
+take common indexes : [0, 2] 
+
+Return the highest indexes : 2 
+
+1. We will create a trie, the trie consists of an array of 26 letters and a list of integers to store the  particular list
+2. We are going  to find the highest common index. Important thing is for suffixes we are going to use startsWith function with string in reverse. 
+
+
+
+Basic Data Structure for Trie 
+{
+	Trie Child;
+	Boolean isEndOfWord; 
+}
+
+About Trie 
+Link: https://www.youtube.com/watch?v=fyBA8OE8eR0
+
+1. Insertion 
+
+Iterate through each character in the String 
+Check if the Trie contains the link to character 
+	if exists, updat ethe root to point the new Trie node 
+	If does not exists, we insert it. 
+	
+Special case: End character 
+If the character for insertion is last character, set the isEndOfWord flag to true 
+
+2. Search in Trie 
+
+Iterate through each character in the Strign 
+Check if the Trie contains the link to character 
+	If exists, update the root to poin the new Trie node 
+	If does not exists, return false 
+	
+Special case: End character 
+Also, check if the isEndOfWord flag is true 
+
+3. StartsWith Operation 
+
+Iterate through each character in the string 
+Check if the Trie contains the link to Character
+	If exists, update the root to point the new Trie node 
+	If does not exists, return false  
+
+
+Time and Space Complexity of Operations in Trie 
+		  | Time Complexity| Space Complexity 
+Insert    | O(N)           | O(N) 
+Search    | O(N)           | O(1) 
+StartsWith| O(N)           | O(1)

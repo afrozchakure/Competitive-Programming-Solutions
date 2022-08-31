@@ -14,5 +14,5 @@ public:
     }
 };
 
-// Time Complexity - O(logn)
+// Time Complexity - O(nlogn)
 // Space Complexity - O(1)

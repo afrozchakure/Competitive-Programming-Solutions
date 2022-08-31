@@ -1,0 +1,4 @@
+Prefix Trees are also called as Trie's. 
+
+Prefix Trees is a lot more intuitive since they are mostly used for Prefix related problems. 
+

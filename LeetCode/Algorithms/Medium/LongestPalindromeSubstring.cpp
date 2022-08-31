@@ -1,3 +1,46 @@
+// Brute Force - 
+
+// babad 
+// the time complexity for scanning the entire string will be O(N) and for checking for each substring will be O(N**2) 
+// hence total time complexity will be O(N**3)
+
+// O(N**2) time complexity solution  -- Neetcode solution (Better solution)
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        
+        int n = s.size(); 
+        string res = ""; 
+        int resLen = 0; 
+        for(int i=0; i<n; i++) {
+            int start = i; 
+            int end = i; 
+            while(start >= 0 && end < n && s[start] == s[end]) {
+                if(end - start + 1 > resLen) {
+                    res = s.substr(start, end-start+1); 
+                    resLen = end-start + 1; 
+                }
+                start--; 
+                end++; 
+            }
+            
+            // odd case 
+            start = i; 
+            end = i+1; 
+            while(start >= 0 && end < n && s[start] == s[end]) {
+                if(end - start + 1 > resLen) {
+                    res = s.substr(start, end - start + 1); 
+                    resLen = end - start + 1; 
+                }
+                start--; 
+                end++; 
+            }
+        }
+        return res;
+    }
+};
+
+// O(N) time complexity solution  - Nick White's solution
 class Solution
 {
 public:
@@ -39,5 +82,5 @@ public:
     }
 };
 
-// Time Complexity - O(N)
+// Time Complexity - O(N**2)
 // Space Complexity - O(1)

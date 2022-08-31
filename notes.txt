@@ -1,0 +1,50 @@
+Both Djitra's and BFS are used for shortest distance 
+
+DFS finds the depth of a graph and tries to optimize the solution 
+
+
+In Djitra's we use a priority queue or a heap. In Djitra's generally used for graphs which have different weighted edges. 
+
+
+BFS is easier than Djitra's
+
+BFS we use a queue. 
+---------------------------------------------------------
+Memoization is used to reduce the time complexity of a recursive solution 
+We store the intermediate result, so that we can reuse it when we encounter the same scenario. 
+y = mx 
+
+y1 - y2 = m (x1 - x2) 
+
+6 - 7 = m 
+
+y2 - y1 / x2 - x1 
+
+6 - 7 / 2 - 1 = -1 / 1 
+
+5 - 6 / 3 - 2 
+
+
+"10","0001","111001","1","0"
+
+numZeros - 1 
+numOnes - 1 
+
+numZeros - 3 
+numOnes - 1 
+
+numZeros - 2 
+numOnes - 4 
+
+
+numZeros - 0 
+numOnes - 1 
+
+numZeros - 1 
+numOnes - 0
+
+Rs 1 lakh -----   Rs 5,080 --- monthly payout
+
+Rs 1 lakh -----   Rs 5,198 --- montly payout 
+
+
