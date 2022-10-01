@@ -64,7 +64,7 @@ public:
                         // innerEl to El
                         vector<string> connectionsForIEl = map[innerEl];
                         connectionsForIEl.push_back(el); 
-                        map[innerEl] = connections;
+                        map[innerEl] = connectionsForIEl;
                     }
                 }
             }
