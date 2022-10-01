@@ -17,7 +17,7 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/first-interaction@v1.1.0
+    - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
         issue-message:  Hi there! 👋🏼 As you're new to this repo, we'd like to suggest that you read our code of conduct as well as our contribution guidelines. Thanks a bunch for opening your first issue! :smile: :tada:
