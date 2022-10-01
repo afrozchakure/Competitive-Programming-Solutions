@@ -1,4 +1,5 @@
 name: Mark Stale issues
+name: Mark stale pull requests
 
 
 on:
