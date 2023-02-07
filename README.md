@@ -4,7 +4,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Issues](https://img.shields.io/github/issues/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr-raw/afrozchakure/Competitive-Programming-Solutions)](https://github.com/afrozchakure/Competitive-Programming-Solutions/pulls)
-[![Last commit](https://badges.pufler.dev/updated/afrozchakure/Competitive-Programming-Solutions?color=red)](https://badges.pufler.dev)
 [![Stars](https://img.shields.io/github/stars/afrozchakure/Competitive-Programming-Solutions?color=green)](https://github.com/afrozchakure/Competitive-Programming-Solutions/stargazers)
 [![Forks](https://img.shields.io/github/forks/afrozchakure/Competitive-Programming-Solutions?color=orange)](https://github.com/afrozchakure/Competitive-Programming-Solutions/network/members)
 [![License](https://img.shields.io/github/license/afrozchakure/Competitive-Programming-Solutions?color=blue)](https://github.com/afrozchakure/Competitive-Programming-Solutions/blob/master/LICENSE)
