@@ -9,6 +9,11 @@ In Djitra's we use a priority queue or a heap. In Djitra's generally used for gr
 BFS is easier than Djitra's
 
 BFS we use a queue. 
+-----------------------------------------------------------------------------------
+In short,
+when we are aware of the destination, use DFS
+&
+when we have to search every path, we use BFS
 ---------------------------------------------------------
 Memoization is used to reduce the time complexity of a recursive solution 
 We store the intermediate result, so that we can reuse it when we encounter the same scenario. 
