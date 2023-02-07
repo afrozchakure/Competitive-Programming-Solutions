@@ -4,7 +4,7 @@ public:
         int n= s.size();
         vector<int> dp_s(n+1, 0);
         
-        dp_s[n] = 1;
+        dp_s[n] = 1;  // last element will be true 
         
         for(int i=n-1; i>=0; i--)
         {
@@ -15,7 +15,7 @@ public:
                     cout<<w<<" "<<endl;
                     dp_s[i] = dp_s[i + w.size()];
                 }
-                if(dp_s[i])
+                if(dp_s[i])  // break; when dp[i] == true 
                     break;
             }
         }
@@ -30,3 +30,5 @@ public:
 
 // N - size of string s 
 // M - size of wordDict
+
+// Decision Tree -> Cache -> Optimal DP solution (Bottom-up approach)

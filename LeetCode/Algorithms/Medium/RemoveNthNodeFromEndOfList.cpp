@@ -1,14 +1,9 @@
 // Method - 1 (Better and Efficient Solution)
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+
+// We just need to go to the node before the one to be removed  
+// and to maintain the distance n from last we can take two-pointers 
+// and maintain the same distance between them, when one reaches null 
+// other reaches the required position and gets the job done
 
 // 0 -> [1,2,3,4,5]
 

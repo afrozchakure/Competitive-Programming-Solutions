@@ -37,3 +37,13 @@ public:
 
 // Time Complexity - O(N * M), N and M is the length of text1 and text2 respectively
 // Space Complexity - O(N * M)
+
+// 1. Recursive solution 
+// 2. Memoization solution 
+// 3. Tabulation (Bottom up approach) 
+
+
+// Tabulation approach 
+// 1. Copy the base case 
+// 2. i = ; j = 
+// 3. Copy the Recurrence
