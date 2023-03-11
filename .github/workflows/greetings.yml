@@ -17,12 +17,10 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/first-interaction@v1
+    - uses: actions/first-interaction@v1.1.0
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: >
-          Hi there! 👋🏼
-          As you're new to this repo, we'd like to suggest that you read our code of conduct as well as our contribution guidelines.
-          Thanks a bunch for opening your first issue! :smile: :tada:
+        issue-message: > 
+          Hi there! 👋🏼 As you're new to this repo, we'd like to suggest that you read our code of conduct as well as our contribution guidelines. Thanks a bunch for opening your first issue! :smile: :tada:
         pr-message: >
           Congratulations on opening your first pull request! The code maintainer will get back to you as soon as possible. In the meantime, please make sure you've updated the documentation to reflect your changes and have added test automation as needed. Thanks! :smile: :tada:
