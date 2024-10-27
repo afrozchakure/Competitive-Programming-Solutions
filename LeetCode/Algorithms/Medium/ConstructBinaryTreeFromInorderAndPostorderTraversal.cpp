@@ -23,8 +23,7 @@ public:
     // postorder = L R D
     // inorder = L D R
 
-    TreeNode *helper(int postEnd, int inStart, int inEnd, vector<int> &inorder, vector<int> &postorder)
-    {
+    TreeNode *helper(int postEnd, int inStart, int inEnd, vector<int> &inorder, vector<int> &postorder) {
         if (postEnd < 0 || inStart > inEnd)
             return NULL;
 
