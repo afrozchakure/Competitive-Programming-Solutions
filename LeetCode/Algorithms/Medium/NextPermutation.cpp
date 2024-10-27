@@ -46,10 +46,10 @@ public:
 // Time Complexity - O(n), in worst case only two scans of the whole array are needed
 // Space Complexity - O(1), no extra space required
 
-// 1. first find a[i-1] > a[i]
+// 1. first find a[i] > a[i+1]
 // 2. check first number where a[j] > a[i]
 
-// 1 2 4 1 
+// 1 2 4 1
 // 1 4 1 2 
 
 // 1 2 4 3 
